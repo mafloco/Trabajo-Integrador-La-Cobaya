@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Accesorios",
+        "precio": "$10.00",
+        "imagen": "img/Accesorios.jpg"
+    },
+    {
+        "nombre": "Alimentador de Heno",
+        "precio": "$20.00",
+        "imagen": "img/AlimentadorHeno.jpg"
+    },
+    {
+        "nombre": "Alimento",
+        "precio": "$30.00",
+        "imagen": "img/AlimentoCobaya.jpg"
+    },
+    {
+        "nombre": "Arnes y Correas",
+        "precio": "$40.00",
+        "imagen": "img/ArnesCorreas.jpg"
+    },
+    {
+        "nombre": "Camas",
+        "precio": "$50.00",
+        "imagen": "img/Camas.jpg"
+    },
+    {
+        "nombre": "Casas Cobaya",
+        "precio": "$60.00",
+        "imagen": "img/Casita.jpg"
+    },
+    {
+        "nombre": "Disfraces",
+        "precio": "$70.00",
+        "imagen": "img/Disfraces.jpg"
+    },
+    {
+        "nombre": "Jaulas Mejoradas",
+        "precio": "$80.00",
+        "imagen": "img/JaulasMejoradas.jpg"
+    },
+    {
+        "nombre": "Ropa para Cobayas",
+        "precio": "$90.00",
+        "imagen": "img/RopaCobayas.jpg"
+    },
+    {
+        "nombre": "Shampoo",
+        "precio": "$100.00",
+        "imagen": "img/ShampooCobaya.jpg"
+    }
+]
